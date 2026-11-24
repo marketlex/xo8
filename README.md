@@ -139,7 +139,7 @@ The point of origin is determined to have a non-zero value. It holds a fractiona
 
 
 
-### 3.3 New Value for Pi ($\\Pi_u$) 
+### 3.3 Octal Value for Pi ($\\Pi_u$) 
 
 Given a quadrant radius ($R$) of 44 units and a total diameter ($D$) of 88 units, a discrete half-circle boundary ($B_{\\text{1/2}}$) steps along the horizontal and vertical grid paths:
 
@@ -147,7 +147,7 @@ $$B_{\\text{1/2}} = D + D = 2D = 176 \\text{ steps}$$
 
 $$\\Pi_u = \\frac{B_{\\text{1/2}}}{R} = \\frac{176}{44} = 4.0 \\longrightarrow \\text{Saturated Notation: } \\mathbf{3.8888\\ 8888}$$
 
-### The value for uncloaked Pi is 4 or 3.8888.
+### The value for uncloaked Pi is 4.
 
 
 #
