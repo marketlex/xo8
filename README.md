@@ -147,7 +147,7 @@ $$B_{\\text{1/2}} = D + D = 2D = 176 \\text{ steps}$$
 
 $$\\Pi_u = \\frac{B_{\\text{1/2}}}{R} = \\frac{176}{44} = 4.0 \\longrightarrow \\text{Saturated Notation: } \\mathbf{3.8888\\ 8888}$$
 
-### The value for octal uncloaked Pi is 4 or 3.8888.
+### The value for uncloaked Pi is 4 or 3.8888.
 
 
 #
