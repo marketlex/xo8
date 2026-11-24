@@ -310,7 +310,8 @@ the platform simply executes a hardware-level 3-bit register shift.
 The direct formation establishes exact coordination and symmetry for software and hardware optimization. 
 
 
-### TBD: Blueprints
+### TBD: Open Blueprints
+Zero-Banding Open Wavelength, Fully Saturated Addition, and 8-Octant Layering.
 
 {8} Octal NS is an on-going project advancing with AI, new artificial insight, and their valuable opinions.
 
