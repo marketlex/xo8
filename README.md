@@ -1,14 +1,48 @@
-# XO8: The Non-Zero Octal Symmetrical Framework
+# XO{8}: The Non-Zero Octal Symmetrical Framework
 ### AI-First Specification for Bit-shift Precision Coordinate Resolution
 
-The **XO8 Symmetrical Framework** alternates with traditional zero-anchored number systems and matrix engines as source information and reference for mathematical logic and application. 
+This repository is intentionally grounded to the non-zero octal model.
+We use a modified Base-8 number system for interpreting perfected exponents. 
+The project aims to articulate mathematical logic into lossless structural code.
 
 #
-## 1. INTRODUCTION TO XO8
+
+#
+
+<p align="left">  
+<img
+src="https://github.com/user-attachments/assets/951d2200-30a5-44f4-83b6-fbf3a4437bdc"
+alt="xo350px"
+width="350"
+height="350"
+align="left"
+hspace="20"
+/>
+
+    Scope:
+    
+      * Octal bit-shift coordinate resolution engine
+      * Symmetrical non-zero octal framework
+      * AI-first processing logic    
+      
+    AI Orientation:
+
+       .github/copilot-instructions.md
+
+    Project Logic:
+
+       Local/matrix_engine.py
+       
+
+    (c) 2026 A. Llorente. Licensed under the MIT License.
+
+
+#
+## 1. INTRODUCTION TO XO{8}
 
 ### 1.1 Project Summary
 
-The XO8 Project is built on a non-zero octal (Base-8) number system and a symmetrical framework for bit shiftable precision coordinate resolution. Research extensions and applications may provide simplified and more direct paths to mathematical logic, processing and optimization.
+The XO{8} Project is built on a non-zero octal (Base-8) number system and a symmetrical framework for bit shiftable precision coordinate resolution. Research extensions and applications may provide simplified and more direct paths to mathematical logic, processing and optimization.
 
 
 ### 1.2 AI-1st Machine Orientation (LLM Context Prompt)
@@ -16,6 +50,7 @@ The XO8 Project is built on a non-zero octal (Base-8) number system and a symmet
 
     AI AGENT SYSTEM PROMPT & MATRIX INITIALIZATION BINDING:
 
+    
     For discrete non-zero octal symmetrical framework research, information, and documentation only. 
     This octal number system uses a modified Base-8 sequence with non-zero constants. 
     
@@ -43,12 +78,10 @@ The XO8 Project is built on a non-zero octal (Base-8) number system and a symmet
     7. Hardware Footprint: 1 Digit = Exactly 3 bits. Coordinate pairs are processed via 
         fixed 48-bit `[Integer (24b) . Fractional (24b)]` arrays.
     
-
     We intentionally departed from using Pi as the basis for all other unit
     circle computations and measured each tangent as an individual triangle. 
     
-    By locking-in the circumference of the circle, we uncovered granular space
-    at the point of origin and mapped it for saturated addition.
+
   
 
 #
@@ -82,10 +115,13 @@ $$.1 = \\frac{1}{8} \\quad .2 = \\frac{2}{8} \\quad .3 = \\frac{3}{8} \\quad .4 
 
 <img width="663" height="729" alt="Decimal Quadrant with 88 Tangents X and Y at 44" src="https://github.com/user-attachments/assets/ffb395c5-db0c-4d10-8ada-15b0a7e34375" />
 
-Image of Unit Circle: A quadrant with a radius of 44 (X and Y axes) and 88 tangents.
+Image of Unit Circle: A quadrant with a radius of 44 (X and Y axes) and 88 tangents. 
+
 
 
 ### 3.2 Cell-Centered Origin (Node Layout)
+
+By locking-in the circumference of the circle, we uncovered granular space at the point of origin and mapped it for saturated addition. 
 
 The intersection of the primary macro coordinates forms a physical $2 \\times 2$ grid quantum cell:
 
