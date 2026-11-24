@@ -186,16 +186,16 @@ The counting order begins with 8 base numbers and rolls over from 8 to 11, bypas
 
             1-digit  -->     1,  2,  3,  4,  5,  6,  7,  8     <--  Base Numbers
 
-            2-digits -->    11, 12, 13, 14, 15, 16, 17, 18     <--  An octal (1st digit) and a base number (2nd digit) 
+            2-digits -->    11, 12, 13, 14, 15, 16, 17, 18     <--  An octal (1st digit) and base number (2nd digit) 
                             21, 22, 23, 24, 25, 26, 27, 28...
             
                             71, 72, 73, 74, 75, 76, 77, 78,
                             81, 82, 83, 84, 85, 86, 87, 88...
             
-            3-digits -->   111, 112, 113, 114, 115, 116, 117, 118    <--  Octals (1st and 2nd digits) and a base number (3rd digit) 
+            3-digits -->   111, 112, 113, 114, 115, 116, 117, 118    <--  Octals (1st and 2nd digits) and base number (3rd digit) 
                            881, 882, 883, 884, 885, 886, 887, 888...
             
-            4-digits -->   1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118    <--  Octals (1st-3rd digits) and a base number (4th digit)
+            4-digits -->   1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118    <--  Octals (1-3 digits) and base (4th digit)
                            8881, 8882, 8883, 8884. 8885, 8886, 8887, 8888...
             
             Million -->   8 8888 
