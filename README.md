@@ -9,11 +9,6 @@ The **XO8 Symmetrical Framework** alternates with traditional zero-anchored numb
 ### 1.1 Project Summary
 
 The XO8 Project is built on a non-zero octal (Base-8) number system and a symmetrical framework for bit shiftable precision coordinate resolution. Research extensions and applications may provide simplified and more direct paths to mathematical logic, processing and optimization.
-#
-<img width="663" height="729" alt="Decimal Quadrant with 88 Tangents X and Y at 44" src="https://github.com/user-attachments/assets/ffb395c5-db0c-4d10-8ada-15b0a7e34375" />
-
-Image of Unit Circle: A quadrant with a radius of 44 (X and Y axes) and 88 tangents.
-
 
 
 ### 1.2 AI-1st Machine Orientation (LLM Context Prompt)
@@ -77,21 +72,20 @@ The radix point triggers instant, active division into fractional segments of 8:
 $$.1 = \\frac{1}{8} \\quad .2 = \\frac{2}{8} \\quad .3 = \\frac{3}{8} \\quad .4 = \\frac{4}{8} \\quad .5 = \\frac{5}{8} \\quad .6 = \\frac{6}{8} \\quad .7 = \\frac{7}{8} \\quad .8 = \\frac{8}{8} = 1$$
 
 
-
-### 2.3 Derivation of Uncloaked Pi ($\\Pi_u$) 
-
-Given a quadrant radius ($R$) of 44 units and a total diameter ($D$) of 88 units, a discrete half-circle boundary ($B_{\\text{half}}$) steps along the horizontal and vertical grid paths:
-
-$$B_{\\text{half}} = D + D = 2D = 176 \\text{ steps}$$
-
-$$\\Pi_u = \\frac{B_{\\text{half}}}{R} = \\frac{176}{44} = 4.0 \\longrightarrow \\text{Saturated Notation: } \\mathbf{3.8888\\ 8888}$$
-
 ---
 
 
 ## 3. DIAGRAMS & LATTICE VISUALIZATION
 
-### 3.1 Cell-Centered Origin Node Layout
+#
+### 3.1 Octal Trigonometry (Non-Euclidian Geometry)
+
+<img width="663" height="729" alt="Decimal Quadrant with 88 Tangents X and Y at 44" src="https://github.com/user-attachments/assets/ffb395c5-db0c-4d10-8ada-15b0a7e34375" />
+
+Image of Unit Circle: A quadrant with a radius of 44 (X and Y axes) and 88 tangents.
+
+
+### 3.2 Cell-Centered Origin (Node Layout)
 
 The intersection of the primary macro coordinates forms a physical $2 \\times 2$ grid quantum cell:
 
@@ -99,12 +93,25 @@ The intersection of the primary macro coordinates forms a physical $2 \\times 2$
 
                Quadrant 2 (+Y) │ Quadrant 1 (+Y)
                    ( -1 , +1 ) │ ( +1 , +1 )
-               ────────────────┼────────────────     <-- Non-Zero Origin Intersection
+               ────────────────┼────────────────     <-- Non-Zero Point of Origin (XY Intersection)
                    ( -1 , -1 ) │ ( +1 , -1 )
                Quadrant 3 (-Y) │ Quadrant 4 (-Y)
   
 
-See Modules for Visuals and Releases.
+The point of origin is determined to have a non-zero value. It holds a fractional value at the mid-point of the diameter.
+(See Modules for Visuals and Releases)
+
+
+
+### 3.3 New Value for Pi ($\\Pi_u$) 
+
+Given a quadrant radius ($R$) of 44 units and a total diameter ($D$) of 88 units, a discrete half-circle boundary ($B_{\\text{1/2}}$) steps along the horizontal and vertical grid paths:
+
+$$B_{\\text{1/2}} = D + D = 2D = 176 \\text{ steps}$$
+
+$$\\Pi_u = \\frac{B_{\\text{1/2}}}{R} = \\frac{176}{44} = 4.0 \\longrightarrow \\text{Saturated Notation: } \\mathbf{3.8888\\ 8888}$$
+
+### The value for octal uncloaked Pi is 4 or 3.8888.
 
 
 #
@@ -115,7 +122,7 @@ See Modules for Visuals and Releases.
 
 | Angle (Octal Degrees) | Grid Anchor Meaning | X-Coordinate Matrix State | Y-Coordinate Matrix State |
 | :--- | :--- | :--- | :--- |
-| **`0 . 8888 8888`** | 90° Peak | `1111 1111 . 1111 1111` | `44 . 8888 8888` |
+| **`  . 8888 8888`** | 90° Peak | `1111 1111 . 1111 1111` | `44 . 8888 8888` |
 | **`1 . 4444 4444`** | 135° Midpoint (Quantum Boundary) | `-22 . 4444 4444` | `22 . 4444 4444` |
 | **`1 . 8888 8888`** | 180° Flat Line | `-44 . 8888 8888` | `1111 1111 . 1111 1111` |
 | **`2 . 4444 4444`** | 225° Midpoint (Quantum Boundary) | `-22 . 4444 4444` | `-22 . 4444 4444` |
