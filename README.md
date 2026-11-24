@@ -8,8 +8,7 @@ The **XO8 Symmetrical Framework** alternates with traditional zero-anchored numb
 
 ### 1.1 Project Summary
 
-The XO8 Project aims to create bit shift precision coordinate resolution tools and information for applicable design and development. It provides additional paths for processing and optimization. 
-
+The XO8 Project is built on a non-zero octal (Base-8) number system and a symmetrical framework for bit shiftable precision coordinate resolution. Research extensions and applications may provide simplified and more direct paths to mathematical logic, processing and optimization.
 #
 <img width="663" height="729" alt="Decimal Quadrant with 88 Tangents X and Y at 44" src="https://github.com/user-attachments/assets/ffb395c5-db0c-4d10-8ada-15b0a7e34375" />
 
@@ -132,37 +131,37 @@ Image of Unit Circle: Measuring 2 coordinates on the X axis (1 segment) adjacent
 
 
 #
-## 5. THE CARDINAL SEQUENCE
+## 5. CARDINAL NUMBERS
 
 
-The counting order rolls over directly from 8 to 11, completely bypassing 9 and 10.
-Incremental digits to the left, base numbers on the right (last position).
+The counting order begins with 8 base numbers and rolls over from 8 to 11, bypassing the numbers 9 and 10.
 
 
-### 5.1 Counting Order
+
+### 5.1 Counting Sequence
 
 
-            1,   2,  3,  4,  5,  6,  7,  8 <-- Base Numbers
+            1-digit  -->     1,  2,  3,  4,  5,  6,  7,  8     <--  Base Numbers
 
+            2-digits -->    11, 12, 13, 14, 15, 16, 17, 18     <--  An octal (1st digit) and a base number (2nd digit) 
+                            21, 22, 23, 24, 25, 26, 27, 28...
             
-            11, 12, 13, 14, 15, 16, 17, 18 <--18 = 1 x 8 (base) + 8 (11 - 18)
-            21, 22, 23, 24, 25, 26, 27, 28,
-            ...
+                            71, 72, 73, 74, 75, 76, 77, 78,
+                            81, 82, 83, 84, 85, 86, 87, 88...
             
-            71, 72, 73, 74, 75, 76, 77, 78,
-            81, 82, 83, 84, 85, 86, 87, 88,
-            ...
+            3-digits -->   111, 112, 113, 114, 115, 116, 117, 118    <--  Octals (1st and 2nd digits) and a base number (3rd digit) 
+                           881, 882, 883, 884, 885, 886, 887, 888...
             
-            111, 112, 113, 114, 115, 116, 117, 118  = 11 x 8 (base) + 8 (111 - 118)
-            ...
+            4-digits -->   1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118    <--  Octals (1st-3rd digits) and a base number (4th digit)
+                           8881, 8882, 8883, 8884. 8885, 8886, 8887, 8888...
             
-            1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118
-            ...
-            
-     1,    2,    3,    4,    5,    6,    7,    8
-     8881, 8882, 8883, 8884, 8885, 8886, 8887, 8888
-            ...
-            
+            Million -->   8 8888 
+            Billion -->   88 8888 
+            Trillion -->  888 8888...
+           
+            Octillion   -->  888 8888 8888
+            Nonillion   -->  8888 8888 8888
+            Decillion   -->  8 8888 8888 8888
 
 #
 ## 6. BI-DIRECTIONAL CONVERSION ALGORITHMS
