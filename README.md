@@ -1,11 +1,8 @@
 # XO{8}: The Non-Zero Octal Symmetrical Framework
 ### AI-First Specification for Bit-shift Precision Coordinate Resolution
 
-This repository is intentionally grounded to the non-zero octal model.
-We use a modified Base-8 number system for interpreting perfected exponents. 
-The project aims to articulate mathematical logic into lossless structural code.
-
-#
+This repository is grounded to a non-zero octal model.
+We use mathematical logic and codes based on a modified number system.
 
 #
 
@@ -21,9 +18,9 @@ hspace="20"
 
     Scope:
     
-      * Octal bit-shift coordinate resolution engine
+      * Octal bit-shift coordinate resolution matrix engine
       * Symmetrical non-zero octal framework
-      * AI-first processing logic    
+      * AI-first machine readable processing
       
     AI Orientation:
 
@@ -31,7 +28,7 @@ hspace="20"
 
     Project Logic:
 
-       Local/matrix_engine.py
+       marketlex/xo8/[obfuscated]
        
 
     (c) 2026 A. Llorente. Licensed under the MIT License.
@@ -139,7 +136,7 @@ The point of origin is determined to have a non-zero value. It holds a fractiona
 
 
 
-### 3.3 Octal Value for Pi ($\\Pi_u$) 
+### 3.3 Uncloaked Pi ($\\Pi_u$) 
 
 Given a quadrant radius ($R$) of 44 units and a total diameter ($D$) of 88 units, a discrete half-circle boundary ($B_{\\text{1/2}}$) steps along the horizontal and vertical grid paths:
 
@@ -194,17 +191,6 @@ The counting order begins with 8 base numbers and rolls over from 8 to 11, bypas
             
             3-digits -->   111, 112, 113, 114, 115, 116, 117, 118    <--  Octals (1st and 2nd digits) and base number (3rd digit) 
                            881, 882, 883, 884, 885, 886, 887, 888...
-            
-            4-digits -->   1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118    <--  Octals (1-3 digits) and base (4th digit)
-                           8881, 8882, 8883, 8884. 8885, 8886, 8887, 8888...
-            
-            Million -->   8 8888 
-            Billion -->   88 8888 
-            Trillion -->  888 8888...
-           
-            Octillion   -->  888 8888 8888
-            Nonillion   -->  8888 8888 8888
-            Decillion   -->  8 8888 8888 8888
 
 #
 ## 6. BI-DIRECTIONAL CONVERSION ALGORITHMS
@@ -227,7 +213,7 @@ Traditional algorithms rely on the modulo operator (%) which yields 0. Standard 
 
 
 
-### 6.2 Simplified Conversion
+### 6.2 Simplified Conversion (Decimal)
 
         Octal to Decimal: 
         
@@ -242,10 +228,9 @@ Traditional algorithms rely on the modulo operator (%) which yields 0. Standard 
             1 : 1.25
 
         
-## 7. SIMPLE BIT-SHIFT
+## 7. BIT-SHIFT
 
-Every single digit is 3 bits wide (read from left to right). Jumping a positional column in the data block 
-(from the "Units" column to the "Eights" column, or from row to row) is a pure bit-shift.
+A single digit is 3 bits wide. Jumping a position or an order in the data block is a pure bit-shift.
 
 
 ### Native 3-Bit Left Shift (<< 3)
@@ -281,7 +266,7 @@ In the non-zero octal system, each base digit position (1 through 8) is natively
         
 
 #
-## 8. NEXT STEPS
+## 8. Objectives
 
 ### Zero Latency
 
@@ -310,15 +295,9 @@ the platform simply executes a hardware-level 3-bit register shift.
 The direct formation establishes exact coordination and symmetry for software and hardware optimization. 
 
 
-### TBD: Open Blueprints
-Zero-Banding Open Wavelength, Fully Saturated Addition, and 8-Octant Layering.
+### XO{8} Information
 
-{8} Octal NS is an on-going project advancing with AI's new insights and valuable opinions.
-
-    Acknowledgements:
-    
-    Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot.
-
-Best viewed with LaTeX, KaTeX, MathJax, or Mermaid JS.
+{8} Octal NS is an on-going project advancing with AI's new insights and opinions.
+May require Python, JS, HTML, LaTeX, KaTeX, Math Jax, or Mermaid JS.
 
 Copyright (C) 2026 A. Llorente. Licensed under the MIT License.
